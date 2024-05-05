@@ -1,3 +1,5 @@
 .innerpanel {
-    border: 2px solid red;
+    border: 2px solid #ccc; /* цвет рамки */
+    border-radius: 10px; /* радиус закругления углов */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* тень */
 }
