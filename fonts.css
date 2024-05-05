@@ -3,3 +3,9 @@
     border-radius: 70px; /* радиус закругления углов */
     box-shadow: 0 0 100px rgba(0, 0, 0, 0.1); /* тень */
 }
+
+.input-control {
+    color: black; /* цвет текста */
+    background-color: black; /* цвет фона */
+}
+
