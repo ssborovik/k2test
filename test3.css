@@ -1,0 +1,15 @@
+/* Fix the height of the form and make it scrollable within the form */ 
+.nx-form.container-fluid.nx-theme-form { 
+  height: 700px; 
+  overflow: auto; 
+} 
+ntx-multi-page .nx-multi-page { 
+  position: relative; 
+} 
+/* Sticky Header */ 
+.nx-multi-page-heading { 
+  position: sticky; 
+  top: -30px; 
+  z-index: 999; 
+  background-color: #ebe419;
+}
