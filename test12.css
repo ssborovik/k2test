@@ -1,0 +1,5 @@
+.mobile .theme-entry {
+    --main-font-size: 1.6rem;
+    --control-inset-vertical-spacing: 0.5rem;
+    --control-inset-narrow-vertical-spacing: 1rem;
+}
