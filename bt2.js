@@ -5,9 +5,10 @@ document.addEventListener("DOMContentLoaded", function() {
     const dropdownContent = document.createElement("div");
     dropdownContent.className = "dropdown-content";
     dropdownContent.innerHTML = `
-        <a href="#">Menu 1</a>
+        <a href="itc.ua">Menu 1</a>
         <a href="#">Menu 2</a>
         <a href="#">Menu 3</a>
+        <a href="#">Menu 4</a>
     `;
 
     // Append dropdown to the body
